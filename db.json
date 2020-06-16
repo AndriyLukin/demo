@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": "1",
+        "title": "How to make a WordPress website – step-by-step guide for beginners",
+        "date": "March 26, 2019",
+        "topic": "WordPress",
+        "user": "Victoria",
+        "previewText": "A step by step tutorial – we start off with finding the right content management system, choosing a domain name, then the right web hosting service, adding the right themes, plugins and customizing your site’s appearance."
+    },
+    {
+        "id": "2",
+        "title": "Ultimate Guide to Comment Moderation in WordPress",
+        "date": "March 26, 2019",
+        "user": "Victoria",
+        "topic": "WordPress",
+        "previewText": "Communication is key to forming lasting, meaningful relationships with your site visitors. It is the first step to converting a random visitor into a paying customer. It is also a form of delivering value to a visitor."
+    }, 
+    {
+        "id": "3",
+        "title": "Custom WordPress Theme Design vs. Theme Customizations",
+        "date": "March 26, 2019",
+        "user": "Victoria",
+        "topic": "WordPress",
+        "previewText": "Most WordPress users do not understand the difference between the customization of an existing WordPress theme and the creation of a custom WordPress theme design."
+    }
+]
